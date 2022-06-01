@@ -37,10 +37,6 @@ This Bot licensed under [GNU Affero General Public License](https://www.gnu.org/
 
 
  
- ## Contributions
-#### Contributions are welcome.
-
-![Contributors](https://contrib.rocks/image?repo=xMalitha/Logo-Maker-Bot)<h1><center>
 
 TeamOutruix
                  <br>  <h2>  • OD • 
