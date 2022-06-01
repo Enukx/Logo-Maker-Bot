@@ -18,7 +18,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xMalitha/Logo-Maker-Bot)
 
-## Deploy to Okteto
+## Deploy Your Logo Maker Bot (Okteto)
 
 [![Develop to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Team-OutruiX/Logo-Maker-Bot&branch=main)
 
@@ -38,6 +38,7 @@ This Bot licensed under [GNU Affero General Public License](https://www.gnu.org/
 ## Special Thanks
 
 - [Gishankrishka](https://github.com/Gishankrishka2)
+- [Malitha Mihiranga](https://github.com/xMalitha) 
 - [Gavesh Bimsath](https://github.com/gbimsath)
  
  ## Contributions
