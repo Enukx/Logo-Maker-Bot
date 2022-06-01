@@ -35,11 +35,7 @@
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 This Bot licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
-## Special Thanks
 
-- [Gishankrishka](https://github.com/Gishankrishka2)
-- [Malitha Mihiranga](https://github.com/xMalitha) 
-- [Gavesh Bimsath](https://github.com/gbimsath)
  
  ## Contributions
 #### Contributions are welcome.
