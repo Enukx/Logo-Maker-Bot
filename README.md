@@ -16,7 +16,7 @@
 
 ## Deploy your Logo Maker Bot (Deploy Heroku)
 
-[![Deploy]([https://www.herokucdn.com/deploy/button.svg)]([https://dashboard.heroku.com/new?template=https://github.com/Enukx/Logo-Maker-Bot])
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Enukx/Logo-Maker-Bot)
 
 ## Deploy Your Logo Maker Bot (Okteto)
 
